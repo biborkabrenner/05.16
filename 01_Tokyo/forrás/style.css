@@ -25,5 +25,6 @@ main h2{
     line-height: 3rem;
     float: left;
     list-style-image: url(/01_Tokyo/forrás/images/arany.png);
+    margin-right: 40px;
 }
 
